@@ -1,5 +1,5 @@
 {
-    "name": "mtelesborges/php-web-driver-manager",
+    "name": "mtelesborges/php-chromedriver-manager",
     "type": "library",
     "description": "Gerenciador de versão para o chromedriver",
     "license": "MIT",
